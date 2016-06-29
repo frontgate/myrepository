@@ -1,0 +1,33 @@
+http://sj-ent01.cisco.com/nt_web/utilities/CreateNTMachineAccounts/CreateNTMachineAccounts.html
+http://prt-sjc-001/zensar
+
+--LDAP directory Entries --
+-----------------------------
+ou=active, ou=employees, ou=people, o=cisco.com
+nsa-sjc-002.cisco.com, nsa-sjc-003.cisco.com,nsa-sjc-004.cisco.com).
+
+http://wwwin.cisco.com/it/support/gicc/alliance/caselookup.html
+http://wwwin.cisco.com/it/support/gicc/alliance/srt/srtmain.html
+
+http://eman.cisco.com/OPDATA/ActiveDirectory/adam/index.pcgi?intropath=Entrypoint%7CGo&forest=cisco.com&_OBJECT_GUID=ADAM%3A%3AUser%3A%3AEmployee%3A%3AAction&_EVENT=set_password&_EVENT_PARAM%3APK_ID=555DEE32-9027-4C4C-8A00-2CD6F728F609
+http://prt-sjc-001/zensar/
+
+http://wwwin-tools.cisco.com/dir/
+
+
+Altris download
+http://desktop.cn.cisco.com/it-img/APPS/ns6_agent/invagents_61/
+
+Zensar Kzen URL:- http://zenlounge.zensar.com/Community/default.aspx
+
+
+CEC Password Reset
+https://pwi-sjc1-c1-1-w.cisco.com/CISCO/nph-psf.exe?USERID=PWI-UI-USER.GEN&PFS_EXT=password.pss
+or
+
+CEC Password Reset
+https://pwreset.cisco.com
+
+
+CEC Password Synchup
+https://pwreset.cisco.com/cisco/synch.pl
