@@ -31,3 +31,7 @@ https://pwreset.cisco.com
 
 CEC Password Synchup
 https://pwreset.cisco.com/cisco/synch.pl
+CEC Password Synchup
+https://pwreset.cisco.com/cisco/synch.pl
+CEC Password Synchup
+https://pwreset.cisco.com/cisco/synch.pl
